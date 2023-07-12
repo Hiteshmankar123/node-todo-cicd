@@ -5,7 +5,7 @@ pipeline {
           step ('pull') {
 
         stage
-          s 
+          step  
         }
 
     }
