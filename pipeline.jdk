@@ -2,9 +2,10 @@ pipeline {
     agent any {
     stages {
         stage
-        step ('pull') {
+          step ('pull') {
 
-        stage 
+        stage
+        ste 
         }
 
     }
